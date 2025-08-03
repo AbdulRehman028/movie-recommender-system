@@ -15,7 +15,10 @@ A Streamlit-based movie recommendation system that suggests similar movies based
 
 ## 🚀 Live Demo
 
-You can try the live application here: [Movie Recommender System](https://abdulrehman028-movie-recommender-system.streamlit.app) *(Will be available after deployment)*
+You can try the live application here: [Movie Recommender System](https://abdulrehman028-movie-recommender-system.streamlit.app) *(Will be available after deployment)*\
+
+<img width="1920" height="1424" alt="image" src="https://github.com/user-attachments/assets/ef3b6651-fc30-483e-8f2e-9811841a9393" />
+
 
 ## 📋 Prerequisites
 - Python 3.7 or higher
